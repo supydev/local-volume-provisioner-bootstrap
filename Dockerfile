@@ -1,1 +1,1 @@
-FROM quay.io/local-volume-provisioner-bootstrap:v1.0.0
+FROM  quay.io/external_storage/local-volume-provisioner-bootstrap:v1.0.0
